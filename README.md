@@ -3,6 +3,11 @@
 # contractsを実装
 
 remixでcontractsを実装
+
+contracts実装ソース
+
+contracts/setMessage.sol
+
 http://remix.ethereum.org
 
 # web_appでcontractsのメソッドの取得、登録をする
