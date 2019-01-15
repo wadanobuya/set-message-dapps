@@ -24,4 +24,15 @@ npm run serve
   Note that the development build is not optimized.
   To create a production build, run npm run build.
 
+# web_appでの動作確認
 
+contracts
+
+setMessageでせ書き込んだメッセージを
+
+http://localhost:8080/
+
+getMessageので表示されていれば
+
+
+初期表示「get message...」
